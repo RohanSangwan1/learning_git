@@ -1,1 +1,2 @@
 Hello World
+Some message to file3
